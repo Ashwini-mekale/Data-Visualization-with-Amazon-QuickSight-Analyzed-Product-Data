@@ -1,4 +1,6 @@
 # Data-Visualization-with-Amazon-QuickSight-Analyzed-Product-Data<br><br>
+![Screenshot 2024-08-30 191314](https://github.com/user-attachments/assets/50c12ab5-19cd-4e06-9f00-452fd48894e0)<br><br>
+
 
 # Introduction to Amazon QuickSight
 ## Overview:
@@ -30,6 +32,29 @@
 ## Data Integration:
 - Combine data from multiple sources if needed to provide a holistic view of product performance.
 - Prepare datasets for more in-depth analysis by merging related tables or datasets.<br><br>
+
+# Creating and Uploading S3 Bucket
+
+- Log in to the AWS Management Console.
+- Navigate to S3 under the services menu.
+- Click Create Bucket.
+- Enter a unique bucket name.
+- Choose the AWS Region closest to your data.
+- Leave other settings at default and click Create Bucket.
+<br><br>
+
+- Select the newly created bucket.
+- Click the Upload button.
+- Choose Add Files and select the files (e.g., index.html, datasets) to upload.
+- Review the settings and click Upload. <br><br>
+
+![Screenshot 2024-08-30 193244](https://github.com/user-attachments/assets/6e0cd3d8-fd25-4965-9d29-1f5d31c9b0d6)
+
+<br><br>
+
+![Screenshot 2024-08-30 193251](https://github.com/user-attachments/assets/4083db4a-e0fc-4410-ba24-509ee4f9747f)
+
+
 
 # Creating Visualizations
 ## Visualization Design:
@@ -65,6 +90,12 @@
 ## Examples:
 - Highlight a trend indicating increasing sales during specific periods and its potential business implications.
 - Point out anomalies such as unexpected drops in sales and suggest possible causes or actions.<br><br>
+
+![Screenshot 2024-08-30 193856](https://github.com/user-attachments/assets/dc08cc78-53ae-4653-8826-64d3c3834811)
+
+<br><br>
+
+![Screenshot 2024-08-30 194907](https://github.com/user-attachments/assets/819d17e4-8a9a-49ab-8596-287a2c25989c)
 
 
 # Sharing and Collaboration
